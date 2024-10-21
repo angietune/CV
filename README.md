@@ -1,2 +1,2 @@
-[cv_eng](../cv/cv_eng.pdf)
-[cv_rus](../cv/cv_rus.pdf)
+[cv_eng](cv_eng.pdf)
+[cv_rus](cv_rus.pdf)
