@@ -3,16 +3,16 @@
 **Frontend / Fullstack Developer**  
 React · Angular · TypeScript · React Native · UI/UX
 
-🔗 **Interactive HTML CV**  
-👉 [View Online](https://angietune.github.io/CV/)
+**Interactive HTML CV**  
+[View Online](https://angietune.github.io/CV/)
 
-📄 **PDF Download**  
-⬇️ [cv_eng.pdf](https://github.com/angietune/CV/raw/main/cv_eng.pdf)
-⬇️ [cv_rus.pdf](https://github.com/angietune/CV/raw/main/cv_rus.pdf)
+**PDF Download**  
+⬇[cv_eng.pdf](https://github.com/angietune/CV/raw/main/cv_eng.pdf)
+⬇[cv_rus.pdf](https://github.com/angietune/CV/raw/main/cv_rus.pdf)
 
 ---
 
-## 🧰 Skills
+## Skills
 
 - **Frontend**: React, Angular, Next.js, Redux, Recoil, TypeScript, Canvas
 - **Mobile**: React Native, Expo, Reanimated
@@ -25,9 +25,9 @@ React · Angular · TypeScript · React Native · UI/UX
 
 ## 📬 Contact
 
-- ✉️ Email: [angietune@gmail.com](mailto:angietune@gmail.com)
-- 💬 Telegram: [@angietune](https://t.me/angietune)
-- 💼 LinkedIn: [linkedin.com/in/angietune](https://linkedin.com/in/angietune)
+- ✉Email: [angietune@gmail.com](mailto:angietune@gmail.com)
+- Telegram: [@angietune](https://t.me/angietune)
+- LinkedIn: [linkedin.com/in/angietune](https://linkedin.com/in/angietune)
 
 ---
 
