@@ -25,7 +25,7 @@ React · Angular · TypeScript · React Native · UI/UX
 
 ## Contact
 
-- ✉Email: [angietune@gmail.com](mailto:angietune@gmail.com)
+- Email: [angietune@gmail.com](mailto:angietune@gmail.com)
 - Telegram: [@angietune](https://t.me/angietune)
 - LinkedIn: [linkedin.com/in/angietune](https://linkedin.com/in/angietune)
 
