@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Natalya Lazareva – CV</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        background: '#0d1117',
+                        foreground: '#c9d1d9',
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        @media print {
+
+            #theme-toggle,
+            #download-button {
+                display: none;
+            }
+        }
+    </style>
+</head>
+
+<body class="bg-white text-black dark:bg-background dark:text-foreground transition-colors duration-300">
+    <div class="max-w-4xl mx-auto p-6">
+        <div class="flex justify-between items-center mb-4">
+            <h1 class="text-3xl font-bold">Natalya Lazareva</h1>
+            <div class="flex gap-2">
+                <button id="theme-toggle" onclick="toggleTheme()" class="px-3 py-1 border rounded">Toggle Theme</button>
+                <button id="download-button" onclick="window.print()" class="px-3 py-1 border rounded">Download
+                    PDF</button>
+            </div>
+        </div>
+        <p class="italic mb-2">Frontend / Fullstack Developer</p>
+        <p class="mb-4">React, Angular, TypeScript, UI/UX</p>
+
+        <h2 class="text-xl font-semibold mt-6">Experience</h2>
+        <div class="mt-2">
+            <p class="font-semibold">2021 - present | LanceIT SIB SRL | Frontend/Fullstack</p>
+            <ul class="list-disc list-inside">
+                <li>Financial Portal Migration to React, Redux, TypeScript, and Micro Frontends (MFE)</li>
+                <li>Built iOS/Android apps using React Native, Reanimated, and NativeWind with Supabase backend
+                    integration (full-stack ownership)</li>
+                <li>Upgraded AngularJS/C# stack to Angular 15</li>
+                <li>Redesigned UX/UI components using Ant Design</li>
+                <li>Architected admin dashboards with Next.js, TypeScript, and Recoil for ML model management</li>
+                <li>Created a React Native app with Reanimated gestures and Supabase Auth</li>
+            </ul>
+
+            <p class="font-semibold mt-4">2013 - 2020 | Politech LTD | Frontend Developer / IT Specialist</p>
+            <ul class="list-disc list-inside">
+                <li>Development of CMS solutions for industrial enterprise</li>
+                <li>Workflow optimization for clients, documentation, staff training</li>
+                <li>Project lifecycle management (from requirements to release)</li>
+            </ul>
+
+            <p class="font-semibold mt-4">2002 - 2010 | Politech LTD | Prepress Specialist / Designer</p>
+            <ul class="list-disc list-inside">
+                <li>Automation of template generation (Corel Draw, Adobe Suite)</li>
+                <li>Development of design system standards for reusable projects</li>
+            </ul>
+        </div>
+
+        <h2 class="text-xl font-semibold mt-6">Technical Skills</h2>
+        <ul class="list-disc list-inside">
+            <li>React, Angular, Next.js, TypeScript, Redux/MobX/Recoil, Jest, Canvas</li>
+            <li>Mobile: React Native, Expo, Reanimated</li>
+            <li>UI/UX: Figma, Ant Design, Tailwind CSS, design-systems</li>
+        </ul>
+
+        <h2 class="text-xl font-semibold mt-6">Management</h2>
+        <ul class="list-disc list-inside">
+            <li>Team coordination (up to 5 team members), Agile/Scrum facilitation, technical documentation</li>
+            <li>CI/CD optimization (GitHub Actions, Azure DevOps, Docker), legacy system refactoring</li>
+        </ul>
+
+        <h2 class="text-xl font-semibold mt-6">Soft Skills</h2>
+        <ul class="list-disc list-inside">
+            <li>Task analysis and decomposition</li>
+            <li>Client and manager communication</li>
+            <li>Technical mentorship</li>
+        </ul>
+
+        <h2 class="text-xl font-semibold mt-6">Education & Courses</h2>
+        <ul class="list-disc list-inside">
+            <li>Ryazan State RadioTechnical University, 2023 | Professional retraining program, diploma</li>
+            <li>RS School, 2021 | JS developer, certificate — JavaScript, TypeScript, React, Redux, Node.js, Webpack
+            </li>
+            <li>Udemy, 2020 | Modern Frontend — HTML5, CSS3/SASS, Gulp, jQuery, Git</li>
+            <li>Ryazan RadioTechnical Institute, 1993 | Computer Engineer — Assembler, C, Pascal</li>
+        </ul>
+
+        <h2 class="text-xl font-semibold mt-6">Contacts</h2>
+        <ul class="list-disc list-inside">
+            <li>Email: <a href="mailto:angietune@yandex.ru" class="text-blue-400 underline">angietune@yandex.ru</a></li>
+            <li>Telegram: <a href="https://t.me/angietune" class="text-blue-400 underline">@angietune</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/angietune"
+                    class="text-blue-400 underline">linkedin.com/in/angietune</a></li>
+            <li>Portfolio: <a href="https://angietune.github.io/portfolio"
+                    class="text-blue-400 underline">angietune.github.io/portfolio</a></li>
+        </ul>
+    </div>
+
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            html.classList.toggle('dark');
+            localStorage.theme = html.classList.contains('dark') ? 'dark' : 'light';
+        }
+
+        const storedTheme = localStorage.theme;
+        if (storedTheme === 'dark' || (!storedTheme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+            document.documentElement.classList.add('dark');
+        }
+    </script>
+</body>
+
+</html>
