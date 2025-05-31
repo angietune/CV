@@ -7,7 +7,7 @@ React · Angular · TypeScript · React Native · UI/UX
 [View Online](https://angietune.github.io/CV/)
 
 **PDF Download**  
-⬇[cv_eng.pdf](https://github.com/angietune/CV/raw/main/cv_eng.pdf)
+⬇[cv_eng.pdf](https://github.com/angietune/CV/raw/main/cv_eng.pdf) 
 ⬇[cv_rus.pdf](https://github.com/angietune/CV/raw/main/cv_rus.pdf)
 
 ---
@@ -23,7 +23,7 @@ React · Angular · TypeScript · React Native · UI/UX
 
 ---
 
-## 📬 Contact
+## Contact
 
 - ✉Email: [angietune@gmail.com](mailto:angietune@gmail.com)
 - Telegram: [@angietune](https://t.me/angietune)
