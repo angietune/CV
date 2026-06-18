@@ -1,7 +1,7 @@
 # Natalya Lazareva – CV
 
-**Frontend / Fullstack Developer**  
-React · Angular · TypeScript · React Native · UI/UX
+**Fullstack Developer**  
+React · React Native · Java · AI/ML Tooling
 
 **Interactive HTML CV**  
 [View Online](https://angietune.github.io/CV/)
@@ -12,22 +12,48 @@ React · Angular · TypeScript · React Native · UI/UX
 
 ---
 
+## Summary
+
+Fullstack developer with 12+ years of experience shipping production software across web, mobile, and backend. Comfortable owning the full stack — from architecture decisions to App Store release. Currently deepening into AI/ML: building with LLM APIs, exploring agentic systems, and developing personal AI tooling.
+
+---
+
+## Experience
+
+- **Freelance Developer** (2026 – present) — Flutter kids' English-learning app, claymation style
+- **Backend Developer**, Lanceit LTD (2025 – Feb 2026) — Java, AWS, Mockito/Jenkins, internal-service security
+- **Freelance / AI Tooling** (2025) — Satori, AI calorie tracker, snippet_lib, LocalPilot, image restoration
+- **Senior Frontend Developer**, AI Matrix (2024) — ML model-management dashboard, real-time chat
+- **Fullstack Developer**, Lanceit LTD (2021 – 2022) — Financial Portal migration, React Native apps
+- **Frontend Developer / IT Specialist**, Politech LTD (2013 – 2020) — CMS for industrial clients
+
+---
+
 ## Skills
 
-- **Frontend**: React, Angular, Next.js, Redux, Recoil, TypeScript, Canvas
-- **Mobile**: React Native, Expo, Reanimated
-- **UI/UX**: Figma, Ant Design, Tailwind CSS, design systems
-- **Fullstack**: Supabase, Node.js, C#, Docker
-- **CI/CD**: GitHub Actions, Azure DevOps
-- **Management**: Agile/Scrum, team coordination, technical mentorship
+- **Frontend**: React, Next.js, Angular, TypeScript, Redux / MobX / Recoil, Tailwind CSS, Ant Design, Canvas
+- **Mobile**: React Native, Expo / EAS, Reanimated, Flutter, Swift
+- **Backend**: Java, Python, FastAPI, Django, Node.js, REST API design, WebSockets
+- **AI/ML**: Anthropic API, OpenAI API, Cloudflare AI Workers, RAG pipelines, ChromaDB, LM Studio, MLX
+- **Infrastructure**: Docker, GitHub Actions, Azure DevOps, Supabase, SQLite, PostgreSQL
+- **Design**: Figma, Adobe Illustrator, InDesign
+
+---
+
+## Personal Projects
+
+- **Brain Engine** — symbolic AI reasoning engine (non-transformer); long-term research project
+- **Anchor'77** — blackjack game in Swift, shipped on App Store
+- **Crypto trading bot** — Python, running live on KuCoin API
 
 ---
 
 ## Contact
 
-- Email: [angietune@gmail.com](mailto:angietune@gmail.com)
+- Email: [angietune@yandex.ru](mailto:angietune@yandex.ru)
 - Telegram: [@angietune](https://t.me/angietune)
 - LinkedIn: [linkedin.com/in/angietune](https://linkedin.com/in/angietune)
+- Portfolio: [angietune.github.io/portfolio](https://angietune.github.io/portfolio)
 
 ---
 
